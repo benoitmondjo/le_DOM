@@ -1,5 +1,3 @@
-import './main.scss';
-
 function createAndStyleElement(tag, className = '', content = ''){
   
   const element = document.createElement(tag)
